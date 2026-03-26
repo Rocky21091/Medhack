@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152947844346",
+    "project_id": "medhack-17",
+    "storage_bucket": "medhack-17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152947844346:android:58010c148bef2ce9b49543",
+        "android_client_info": {
+          "package_name": "com.example.medhack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdvU-ieUPUPBMw5GFXKJYsPs5UQWieAwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
